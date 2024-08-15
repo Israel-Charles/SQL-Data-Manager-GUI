@@ -2,6 +2,8 @@
 
 SQL Data Manager is a Java-based GUI application that allows users to manage SQL databases. Users can connect to a MySQL database by providing the database URL, username, and password directly in the GUI. The application supports executing SQL commands and displays the results in a table. It also allows users to export result as CSV file.
 
+#### Demo > https://codepad.site/pad/98t70yjd
+
 ## Features
 
 - **Dynamic Database Connection:** Connect to any MySQL database by entering the database URL, username, and password directly.
